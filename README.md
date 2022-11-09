@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a rel="me" href="https://functional.cafe/@arianvp">Mastodon</a>
+<a rel="me nofollow" href="https://functional.cafe/@arianvp">Mastodon</a>
 
 
 <!--
